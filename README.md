@@ -1,4 +1,4 @@
-# docker-jsc
+## docker-jsc
 máy ảo or máy tính của bạn đã có docker, docker-compose
 # clone git về máy
 # cd vào thư mục đã clone
