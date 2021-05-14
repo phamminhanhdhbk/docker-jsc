@@ -1,6 +1,8 @@
 # docker-jsc
-đây là dự án jsc gồm 3 container riêng , jsc, mysql , proxy
-# clone git ve
-cd vao thư mục
-clone project từ git của công ty về
+máy ảo or máy tính của bạn đã có docker, docker-compose
+# clone git về máy
+# cd vào thư mục đã clone
+# clone container-jsc từ git của công ty
+# khơi động 3 container cùng lúc gồm jsc, mysql, proxy
+docker-compose up -d --build
 
